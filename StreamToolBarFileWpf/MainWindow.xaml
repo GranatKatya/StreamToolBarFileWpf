@@ -1,0 +1,49 @@
+﻿<Window x:Class="StreamToolBarFileWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StreamToolBarFileWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="649.6">
+    <Grid Margin="0,0,3.2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="41*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"  Grid.Row="0" Margin="0,0,0,0.4"  >
+            <Label Width="82" Height="35"  Margin="10">From where</Label>
+            <TextBox Name="open" Margin="10,10,10,17.4" Width="432"/>
+            <Button Width="68" Height="35" Click="Button_Click" >File...</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"  Grid.Row="1" Margin="0,0.6,0,1.4"  >
+            <Label Width="82" Height="35"  Margin="10">Where</Label>
+            <TextBox Name="save" Margin="10,14,10,23" Width="432"  KeyDown="Enter" />
+            <Button Width="68" Height="35" Click="Button_Click_1" >File...</Button>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,60.6,0,0" Grid.RowSpan="2"  >
+            <StackPanel Width="82"  Margin="10,0,10,0.4" Height="66" VerticalAlignment="Bottom">
+                <Button Click="Suspend">Pause</Button>
+                <Button Click="Resume">Resume</Button>
+                <Button Name="cancel1" Click="Cancel1">Cancel</Button>
+            </StackPanel>
+
+            <ProgressBar  Name="progressBar" Height="35" Margin="10,10,10,10.2" Width="432"  ></ProgressBar>
+            <Button Width="68" Height="35" Click="Button_Click_2" >Copy</Button>
+        </StackPanel>
+
+
+        <StackPanel  Name ="Stakpanel" Orientation="Horizontal"  Grid.Row ="3"  Visibility="Hidden" Margin="0,0,0,10.4" >
+            <StackPanel Width="82"  Margin="10">
+                <Button Click="Suspend2">Pause</Button>
+                <Button Click="Resume2">Start</Button>
+            </StackPanel>
+            <ProgressBar  Name="progressBar2" Height="35" Margin="10,10,10,10.2" Width="432"  ></ProgressBar>
+            <Button   Name="Cancel2"  Width="68" Height="35" Click="Cancel">canel</Button>
+        </StackPanel>
+    </Grid>
+</Window>

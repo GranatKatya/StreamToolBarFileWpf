@@ -1,0 +1,45 @@
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe.config
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.pdb
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csprojAssemblyReference.cache
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.g.cs
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\App.g.cs
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.cache
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.lref
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.baml
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.g.resources
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.Properties.Resources.resources
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.GenerateResource.cache
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.CoreCompileInputs.cache
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.exe
+c:\users\katya granat\source\repos\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.pdb
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe.config
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.pdb
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csprojResolveAssemblyReference.cache
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\App.g.cs
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.cache
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.lref
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.baml
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.g.resources
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.Properties.Resources.resources
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.GenerateResource.Cache
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.CoreCompileInputs.cache
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.exe
+C:\Users\Gran_mv08\Desktop\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.pdb
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe.config
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.exe
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\bin\Debug\StreamToolBarFileWpf.pdb
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csprojAssemblyReference.cache
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.g.cs
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\App.g.cs
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.cache
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf_MarkupCompile.lref
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\MainWindow.baml
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.g.resources
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.Properties.Resources.resources
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.GenerateResource.cache
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.csproj.CoreCompileInputs.cache
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.exe
+D:\Флэшка\System Programming\StreamToolBarFileWpf\StreamToolBarFileWpf\obj\Debug\StreamToolBarFileWpf.pdb
